@@ -1,5 +1,5 @@
 ### Hello everyone ✨
-I am a junior web developer currently learning Javascript, React, React Native, and ThreeJS. 
+I am a junior web developer currently learning Javascript, React, React Native, NextsJS and ThreeJS. 
 I am particularly passionate about 3D design for websites and aspire to elevate my skills in these domains. 
 Follow my projects on this account for updates! 🌱
 
